@@ -1,0 +1,29 @@
+#main {
+  padding: 1% 1% 1% 1%;
+  font-family: helvetica;
+}
+
+body {
+background: linear-gradient(35deg, #CCFFFF, #FFCCCC, rgb(204, 204, 255));
+}
+
+#submain
+{
+  margin: 2% 20% 2% 20%;
+  padding: 1% 5% 1% 5%;
+  background-color: lightblue;
+}
+
+#description {
+  font-weight: bold;
+  font-style: italic;
+  color: blue;
+}
+
+h1 {
+  text-align: center;
+}
+
+submit {
+  text-align: center;
+}
